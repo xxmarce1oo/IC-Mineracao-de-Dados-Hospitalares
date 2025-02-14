@@ -4,8 +4,8 @@ Este repositório contém dois scripts em Python para coletar avaliações de pa
 
 ## Funcionalidades
 
-- O primeiro script coleta as avaliações de uma página específica e as exporta para uma planilha Excel.
-- O segundo script coleta as avaliações, incluindo informações sobre o nome do paciente, nota, comentário, data e resposta da empresa, e exporta as avaliações para **PDF** e **Excel**.
+- O primeiro script coleta as avaliações do Doctoralia.com .
+- O segundo script coleta as avaliações do Google.com .
 - Ambos os scripts utilizam **Selenium** para navegação na página web e extração de dados, e **openpyxl** e **FPDF** para gerar os arquivos Excel e PDF.
 
 ## Pré-requisitos
