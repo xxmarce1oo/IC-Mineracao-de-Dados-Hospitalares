@@ -14,8 +14,8 @@ Antes de rodar os scripts, você precisa instalar as bibliotecas necessárias. V
 
 ```bash
 pip install selenium fpdf openpyxl webdriver-manager
-
-    selenium: Para automação de navegação no navegador.
+```
+selenium: Para automação de navegação no navegador.
     fpdf: Para gerar arquivos PDF.
     openpyxl: Para gerar arquivos Excel.
     webdriver-manager: Para gerenciar o driver do Chrome automaticamente.
