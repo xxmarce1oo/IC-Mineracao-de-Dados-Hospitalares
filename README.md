@@ -5,7 +5,7 @@ Este repositório contém dois scripts em Python para coletar avaliações de pa
 ## Funcionalidades
 
 - O primeiro script coleta as avaliações do [Doctoralia](https://www.doctoralia.com) .
-- O segundo script coleta as avaliações do [Google](https://www.google.com) .
+- O segundo script coleta as avaliações do [Google Maps](https://www.google.com.br/maps/preview) .
 - Ambos os scripts utilizam **Selenium** para navegação na página web e extração de dados, e **openpyxl** e **FPDF** para gerar os arquivos Excel e PDF.
 
 ## Pré-requisitos
