@@ -15,13 +15,13 @@ Antes de rodar os scripts, você precisa instalar as bibliotecas necessárias. V
 ```bash
 pip install selenium fpdf openpyxl webdriver-manager
 ```
-- selenium: Para automação de navegação no navegador.
-- fpdf: Para gerar arquivos PDF.
-- openpyxl: Para gerar arquivos Excel.
-- webdriver-manager: Para gerenciar o driver do Chrome automaticamente.
+- Selenium: Para automação de navegação no navegador.
+- Fpdf: Para gerar arquivos PDF.
+- Openpyxl: Para gerar arquivos Excel.
+- Webdriver-manager: Para gerenciar o driver do Chrome automaticamente.
 
 Scripts
-1. Script de Coleta de Avaliações e Exportação para Excel
+1. Script de Coleta de Avaliações Doctoralia
 
 Este script coleta as avaliações de um site específico e as salva em um arquivo Excel.
 Como funciona:
